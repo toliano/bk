@@ -1,0 +1,9 @@
+{
+  "createdAt": "2025-04-19T00:31:27.933Z",
+  "data": "U2FsdGVkX19WUrSoODT1UTvny/SWjMYeaEN+kGu8eqoendDXb3mljD/EC9cBnJXceMZJDAB4wwUrQpvEHKuAW5gGtHSetWkA2LJF9+3Ox84ZZnxeXAmow8nOUw8e3mqa1e+/jApcOrCuNveGqXCuuI2zpJF9HfO3bVV8D85Xia3dKqkjtgrzNYeOFzG7fGk7fITsOnj9Vj9j3q9fIczzhg==",
+  "id": "34YoJmZkb4QUbqAU",
+  "isManaged": false,
+  "name": "mux basic auth",
+  "type": "httpBasicAuth",
+  "updatedAt": "2025-04-19T00:31:27.930Z"
+}
