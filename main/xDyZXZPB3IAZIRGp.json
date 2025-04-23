@@ -1,0 +1,9 @@
+{
+  "createdAt": "2025-04-11T13:41:56.335Z",
+  "data": "U2FsdGVkX1+7jXHjCLj8RIkANAAsYSSLXd4xspcf1TaOKAJ6S8Tr3Uzuh6g3YuOeRByVLXdmqGn+1AZN9pZByTVpbfVeyp6yy1rM+7lO83zivU4+nPJ/7qQcxaX5qO+DfOQlWTGpShlwxa3ryuutnw==",
+  "id": "xDyZXZPB3IAZIRGp",
+  "isManaged": false,
+  "name": "Apify TrustPilot",
+  "type": "httpQueryAuth",
+  "updatedAt": "2025-04-11T13:42:40.315Z"
+}
