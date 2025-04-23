@@ -1,0 +1,9 @@
+{
+  "createdAt": "2025-04-20T21:49:10.695Z",
+  "data": "U2FsdGVkX18nQ1cECX060xEg9qKyaApSZGIEXBbLNZ71azZlw/joysU4mnvczD3JcywHPTelGTuupmA+L0Bw8GmMWM6+D30jzUIixe4elDbbec51ScRQpIeQtyAW+E3OrHKqkXu9KHRb3fttAentig==",
+  "id": "QO6GGXgOptgTh3Q6",
+  "isManaged": false,
+  "name": "github",
+  "type": "httpHeaderAuth",
+  "updatedAt": "2025-04-20T21:49:10.666Z"
+}
